@@ -1,0 +1,41 @@
+body{
+    background: #2E3223;
+    font-family: sans-serif;
+}
+
+h1{
+    text-transform: uppercase;
+    text-align: center;
+    padding: 20px;
+    font-size: 60px;
+    margin-top: 60px;
+    font-family: 'Bangers', cursive;
+    color: #fff;
+}
+
+p{
+    box-sizing: border-box;
+    text-align: center;
+    font-family: 'Caveat Brush', cursive;
+    color: #fff;
+    font-size: 20px;
+}
+
+.btn{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 8px;
+    background: #fff;
+    color: #2E3223;
+    padding: 20px;
+    text-transform: uppercase;
+    border: none;
+    font-weight: bold;
+}
+
+.btn:hover{
+    color: #fff;
+    background: #2E3223;
+    border: 3px #fff;
+}
