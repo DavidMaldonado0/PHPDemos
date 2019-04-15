@@ -9,12 +9,9 @@
 <body>
 <div class="container">
     <div class="header clearfix">
-        <nav>
-          <ul class="nav nav-pills pull-right">
-            <li role="presentation" class="active"><a href="#">Home</a></li>
-            <li role="presentation"><a href="#">About</a></li>
-            <li role="presentation"><a href="#">Contact</a></li>
-          </ul>
+        <nav class="navbar navbar-dark bg-dark">
+            <a class="btn btn-dark" href="index.php">Home</a>
+            <a class="btn btn-dark" href="create.php">Create Listing</a>
         </nav>
-        <h3 class="text-muted">Project name</h3>
+        <h1 class="text-muted">Job Lister</h1>
     </div>
