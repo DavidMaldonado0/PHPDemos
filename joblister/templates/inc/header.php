@@ -13,5 +13,5 @@
             <a class="btn btn-dark" href="index.php">Home</a>
             <a class="btn btn-dark" href="create.php">Create Listing</a>
         </nav>
-        <h1 class="text-muted">Job Lister</h1>
+        <h1 class="text-muted"><?php echo SITE_TITLE; ?></h1>
     </div>
